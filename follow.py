@@ -24,8 +24,8 @@ CHECK_IN_TO_SERVER = True
 REPORT_STATUS_TO_SERVER = True
 #
 # default login credentials
-DEFAULT_USERNAME = 'minhaodeng'
-DEFAULT_PASSWORD = '1234qwer'
+DEFAULT_USERNAME = 'luchangzheng'
+DEFAULT_PASSWORD = 'ilovebsb'
 #
 # other arguments for instapy
 INT_MAX = sys.maxsize
